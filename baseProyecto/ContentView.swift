@@ -27,7 +27,7 @@ struct ContentView: View {
                         myTabButton(title: "Options", tags: 2, icon: "icono-Lugar")
                         Spacer()
                         myTabButton(title: "Profile", tags: 3, icon: "icono_Recompensas")
-                        myTabButton(title: "Lalala", tags: 4, icon: "icons_Perfil").padding(.trailing, 20)
+                        myTabButton(title: "Kalala", tags: 4, icon: "icons_Perfil").padding(.trailing, 20)
                     }.frame(width: 350, height: 65).background(.green).cornerRadius(40)
                     Button{
                                             
